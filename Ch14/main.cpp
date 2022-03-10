@@ -40,30 +40,6 @@ void f (B2& b)
 
 int main()
 {
-    /*
-    B1 b;
-    b.vf();
-    b.f();
-    */
-
-    /*
-    D1 d;
-    d.vf();
-    d.f();
-    */
-
-    /*
-    B1& r {d};
-    r.vf();
-    r.f();
-    */
-
-    /*
-    D2 dd;
-    dd.vf();
-    dd.f();
-    dd.pvf();
-    */
 
     D21 two_one;
     D22 two_two;
